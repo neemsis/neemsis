@@ -7,7 +7,7 @@
 
 :wrench: NEEMSIS, is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in India through individual and household surveys.
 
-:office: The overall aim of this GitHub is to provide a platform for sharing the code needed to build and clean up the NEEMSIS databases and to construct relevant variables (assets, debt, etc.).
+:office: The aim of this GitHub is to provide a platform for sharing the code needed to build and clean up the NEEMSIS databases and to construct relevant variables (assets, debt, cognition, etc.).
 
 * The [`RUME`](https://github.com/neemsis/RUME) folder contains codes relating to the RUME (2010) baseline survey.
 * The [`NEEMSIS-1`](https://github.com/neemsis/NEEMSIS-1) folder contains codes relating to the NEEMSIS-1 (2016-17) wave.
