@@ -5,7 +5,7 @@
 
 # Welcome to the GitHub of the NEEMSIS survey!
 
-:wrench: NEEMSIS, is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in India through individual and household surveys.
+:wrench: NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in India through individual and household surveys.
 
 :office: The aim of this GitHub is to provide a platform for sharing the code needed to build and clean up the NEEMSIS databases and to construct relevant variables (assets, debt, cognition, etc.).
 
