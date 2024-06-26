@@ -3,7 +3,7 @@
 [1]:  https://neemsis.hypotheses.org/files/2022/11/NEEMSIS_banner-2048x478.jpg
 [2]:  http://neemsis.hypotheses.org/
 
-# Welcome to the GitHub for the NEEMSIS longitudinal survey!
+# Welcome to the GitHub of the NEEMSIS survey!
 
 :wrench: NEEMSIS, is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in India through individual and household surveys.
 
